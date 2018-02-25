@@ -1,0 +1,6 @@
+[package]
+name = "bugtriedie"
+version = "0.1.0"
+authors = ["Jan Vandepitte <Jan.Vandepitte@sirus.be>"]
+
+[dependencies]
